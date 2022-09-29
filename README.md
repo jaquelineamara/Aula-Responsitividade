@@ -1,2 +1,2 @@
-# Aula-Responsitividade
+# Aula-Responsividade
 tarefa
